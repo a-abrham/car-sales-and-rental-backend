@@ -1,18 +1,18 @@
 import {defineField, defineType} from 'sanity'
 
 export default defineType({
-  name: 'author',
-  title: 'Author',
+  name: 'made',
+  title: 'Manufacturer',
   type: 'document',
   fields: [
     defineField({
       name: 'name',
-      title: 'Name',
+      title: 'Manufacturer',
       type: 'string',
     }),
     defineField({
       name: 'slug',
-      title: 'Slug',
+      title: 'manufacturerID',
       type: 'slug',
       options: {
         source: 'name',
@@ -29,7 +29,7 @@ export default defineType({
     }),
     defineField({
       name: 'bio',
-      title: 'Bio',
+      title: 'Overall Description',
       type: 'array',
       of: [
         {
