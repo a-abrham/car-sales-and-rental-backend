@@ -53,6 +53,16 @@ export default defineType({
       type: 'number'
     }),
     defineField({
+      name: 'people',
+      title: 'People',
+      type: 'number'
+    }),
+    defineField({
+      name: 'cc',
+      title: 'cc',
+      type: 'number'
+    }),
+    defineField({
       name: 'salesPrice',
       title: 'Sales Price',
       type: 'number'
