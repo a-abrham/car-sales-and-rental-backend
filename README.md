@@ -51,6 +51,6 @@ To enable CORS for your Sanity.io project, you can add a cors configuration obje
 ![alt text](image/3.png)
 <br>
 
-`Step 4: Done. Now your website can use the API to fetch the datas`<br>
+`Step 4: Done. Now your website can use the API to fetch the datas`<br><br>
 ![alt text](image/4.png)
 <br>
