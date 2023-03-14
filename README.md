@@ -6,7 +6,35 @@
 - [Add Admins to add/remove/edit car details](#)
 
 # Add Remove Edit Car Details
+### It is easy doing such actions once you understand the dashboard. Lets see
+<br>
 
+> The models
+
+![alt text](image/dash.b/1.png)
+<br>
+
+> Manufacturer Model
+
+![alt text](image/dash.b/2.png)
+<br>
+
+
+> Status Model
+
+![alt text](image/dash.b/3.png)
+<br>
+
+> The Car Model & How it is linked with the the above models
+
+![alt text](image/dash.b/4.png)
+<br>
+
+
+>JKBJVJV
+
+![alt text](image/dash.b/5.png)
+<br>
 
 # Access for the API
 
