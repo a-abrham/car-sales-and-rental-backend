@@ -9,29 +9,26 @@
 ### It is easy doing such actions once you understand the dashboard. Lets see
 <br>
 
-#  `The models`
+##  `The Models`
 
 ![alt text](image/models/1.png)
 <br>
 
-> Manufacturer Model
+## `Manufacturer Model`
 
 ![alt text](image/models/2.png)
 <br>
 
 
-> Status Model
+## `Status Model`
 
 ![alt text](image/models/3.png)
 <br>
 
-> The Car Model & How it is linked with the the above models
+## `The Car Model & How it is linked with the the above Models`
 
 ![alt text](image/models/4.png)
 <br>
-
-
->JKBJVJV
 
 ![alt text](image/models/5.png)
 <br>
