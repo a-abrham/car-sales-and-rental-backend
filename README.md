@@ -32,6 +32,15 @@
 ![alt text](image/models/5.png)
 <br>
 
+# `How can we add cars?`
+
+![alt text](image/models/6.png)
+<br>
+
+# `How can we remove or Edit Car Details?`
+![alt text](image/models/7.png)
+<br>
+
 # Access for the API
 
 Sanity Studio provides an easy way to access APIs through its built-in HTTP client. This allows you to retrieve and update data from external APIs directly within the Sanity Studio interface.
