@@ -11,29 +11,29 @@
 
 > The models
 
-![alt text](image/dash.b/1.png)
+![alt text](image/models/1.png)
 <br>
 
 > Manufacturer Model
 
-![alt text](image/dash.b/2.png)
+![alt text](image/models/2.png)
 <br>
 
 
 > Status Model
 
-![alt text](image/dash.b/3.png)
+![alt text](image/models/3.png)
 <br>
 
 > The Car Model & How it is linked with the the above models
 
-![alt text](image/dash.b/4.png)
+![alt text](image/models/4.png)
 <br>
 
 
 >JKBJVJV
 
-![alt text](image/dash.b/5.png)
+![alt text](image/models/5.png)
 <br>
 
 # Access for the API
