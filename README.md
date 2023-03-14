@@ -7,7 +7,6 @@
 
 # Add Remove Edit Car Details
 ### It is easy doing such actions once you understand the dashboard. Lets see
-<br>
 
 ##  `The Models`
 
