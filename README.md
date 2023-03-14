@@ -3,7 +3,7 @@
 
 - [Edit Who can access the API](#Access-for-the-API)
   
-- [Add Admins to add/remove/edit car details](#)
+- [Add Admins to add/remove/edit car details](#Add-Members)
 
 # Add Remove Edit Car Details
 ### It is easy doing such actions once you understand the dashboard. Lets see
@@ -89,7 +89,7 @@ To enable CORS for your Sanity.io project, you can add a cors configuration obje
 ![alt text](image/4.png)
 <br>
 
-# Access for the API
+# Add Members
 
 `Step 1: Head to the dashboard and under the the Members look out for "Invite project members"`<br>
 
