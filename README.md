@@ -1,3 +1,13 @@
+# What is Sanity
+It is headless content managment system, that will enable you to store and manage your data.
+
+> I'll post a step by step guide on how we can use it... very soon
+# Why Sanity? 
+- Easy to custmoize
+- Nice documentation
+- 100k API requests per Month
+- 5 GB storage per project
+- Perfect for medium sized projects.
 # Features
 - [Add/Remove/Edit Car Details](#Add-Remove-Edit-Car-Details)
 
