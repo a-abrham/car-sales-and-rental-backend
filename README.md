@@ -1,5 +1,5 @@
 # Features
-- [Add/Remove/Edit Car Details](#)
+- [Add/Remove/Edit Car Details](#Add-Remove-Edit-Car-Details)
 
 - [Edit Who can access the API](#Access-for-the-API)
   
@@ -87,4 +87,22 @@ To enable CORS for your Sanity.io project, you can add a cors configuration obje
 `Step 4: Done. Now your website can use the API to fetch the data`<br>
 
 ![alt text](image/4.png)
+<br>
+
+# Access for the API
+
+`Step 1: Head to the dashboard and under the the Members look out for "Invite project members"`<br>
+
+![alt text](image/acc/1.png)
+<br>
+
+`Step 2: Add the email and the role`<br>
+
+![alt text](image/acc/2.png)
+<br>
+
+`Step 3: Once you are done, send the invite`
+<br>
+
+![alt text](image/acc/3.png)
 <br>
